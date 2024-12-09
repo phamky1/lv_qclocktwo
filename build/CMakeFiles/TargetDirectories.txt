@@ -1,0 +1,3 @@
+/home/kyph/Project/03_Project/lvgl/licheeMac/build/CMakeFiles/licheeMac.dir
+/home/kyph/Project/03_Project/lvgl/licheeMac/build/CMakeFiles/edit_cache.dir
+/home/kyph/Project/03_Project/lvgl/licheeMac/build/CMakeFiles/rebuild_cache.dir
